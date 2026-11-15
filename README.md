@@ -2,9 +2,9 @@
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioAT1992) 
 ![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-burgos/)-->
-![Claudio's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ClaudioAT1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
+![Claudio's Github stats](https://github-stats-extended.vercel.app/api?username=ClaudioAT1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
 </br>
-![topLangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ClaudioAT1992&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
+![topLangs](https://github-stats-extended.vercel.app/api/top-langs/?username=ClaudioAT1992&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='img/Monkey_Kid_Coding.gif' align='left'>
